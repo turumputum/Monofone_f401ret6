@@ -1,0 +1,14 @@
+usb_audio_hid_wrapper.c:308:16:USBD_AUDIOHID_Init	24	static
+usb_audio_hid_wrapper.c:326:16:USBD_AUDIOHID_DeInit	16	static
+usb_audio_hid_wrapper.c:342:16:USBD_AUDIOHID_Setup	24	static
+usb_audio_hid_wrapper.c:367:17:USBD_AUDIOHID_GetCfgDesc	16	static
+usb_audio_hid_wrapper.c:379:10:USBD_AUDIOHID_DeviceQualifierDescriptor	16	static
+usb_audio_hid_wrapper.c:393:16:USBD_AUDIOHID_DataIn	16	static
+usb_audio_hid_wrapper.c:405:16:USBD_AUDIOHID_EP0_RxReady	16	static
+usb_audio_hid_wrapper.c:417:16:USBD_AUDIOHID_EP0_TxReady	16	static
+usb_audio_hid_wrapper.c:429:16:USBD_AUDIOHID_SOF	16	static
+usb_audio_hid_wrapper.c:442:16:USBD_AUDIOHID_IsoINIncomplete	16	static
+usb_audio_hid_wrapper.c:454:16:USBD_AUDIOHID_IsoOutIncomplete	16	static
+usb_audio_hid_wrapper.c:466:16:USBD_AUDIOHID_DataOut	16	static
+usb_audio_hid_wrapper.c:479:10:USBD_AUDIOHID_GetDeviceQualifierDesc	16	static
+usb_audio_hid_wrapper.c:486:6:SwitchPdevTo	16	static

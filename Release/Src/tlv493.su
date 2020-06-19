@@ -1,0 +1,3 @@
+tlv493.c:17:5:tlv_init	40	static
+tlv493.c:43:5:tlv_reset	16	static
+tlv493.c:48:5:getMagVal	32	static
